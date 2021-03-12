@@ -1,0 +1,26 @@
+{
+    "id": "41E67EF1",
+    "path": "~/Documents/Weill_Cornell/Functional_Interpretation/metabolomics/homework_2/Metabolomics_HW2/R/enrichment_analysis.rmd",
+    "project_path": "R/enrichment_analysis.rmd",
+    "type": "r_markdown",
+    "hash": "2724276866",
+    "contents": "",
+    "dirty": false,
+    "created": 1615504154352.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "working_dir": "project",
+        "last_setup_crc32": "",
+        "chunk_output_type": "console"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1615511684,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1615511684634,
+    "read_only": false,
+    "read_only_alternatives": []
+}
